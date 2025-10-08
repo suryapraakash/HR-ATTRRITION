@@ -7,13 +7,13 @@ Built an interactive **Tableau dashboard** to uncover actionable insights for HR
 ---
 
 ## 🗂️ Files in this Repository
-- `data/` — raw & cleaned CSV files (Kaggle HR Attrition dataset)
-- `excel/` — Excel workbook with cleaning and preprocessing steps
-- `tableau/` — Tableau workbook (`.twbx` or `.twb`)
-- `screenshots/` — dashboard previews
+- [`data/` — raw & cleaned CSV files](https://github.com/suryapraakash/HR-ATTRRITION/blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv) (Kaggle HR Attrition dataset)
+- [`tableau/` — Tableau workbook](https://github.com/suryapraakash/HR-ATTRRITION/blob/main/hr%20attrition.twbx) (`twbx`)
+- https://github.com/suryapraakash/HR-ATTRRITION/blob/main/hr%20attrition.png — dashboard previews
 
 
 ---
+![Tableau Dashboard Screenshot](https://github.com/suryapraakash/HR-ATTRRITION/blob/main/hr%20attrition.png)
 
 ## 🧰 Tools & Technologies
 - **Dataset:** Kaggle HR Attrition Data  
@@ -68,5 +68,3 @@ Previously, I created **10+ dashboards in Power BI**, but this project helped me
 
 ---
 
-## 🏷️ Tags
-`#Tableau` `#DataVisualization` `#HRAnalytics` `#AttritionAnalysis` `#BusinessAnalysis` `#Kaggle` `#Excel` `#PowerBI` `#DataStorytelling`
